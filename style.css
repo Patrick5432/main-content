@@ -1,0 +1,262 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    height: 100%;
+    line-height: 1;
+    margin-top: 50px;
+}
+
+.filter {
+    margin-top: 40px;
+}
+
+.filter h1 {
+    font-size: 16px;
+}
+
+.filter nav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 21px;
+    margin-left: 20px;
+}
+
+.filter div {
+    display: flex;
+    align-items: center;
+}
+
+.filter nav div {
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.gender a {
+    margin-left: 20px;
+}
+
+.cancel {
+    margin-top: 34px;
+    background-color: #D0AC6C;
+    padding: 14px 15px;
+}
+
+.cancel p {
+    color: aliceblue;
+}
+
+main {
+    margin-left: 40px;
+}
+
+.main-head {
+    display: flex;
+}
+
+.main-head a {
+    margin-left: 30px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.products {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    margin-top: 47px;
+}
+
+.page p {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 25px;
+    color: black;
+}
+
+.forward {
+    margin-left: 20px;
+}
+
+.clother {
+    display: flex;
+    justify-content: space-around;
+}
+
+.clother img {
+    margin-left: 70px;
+    margin-top: 25px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 18px;
+}
+
+.C1 {
+    margin-left: 30px;
+}
+
+.C2 {
+    margin-left: 90px;
+}
+
+.C3 {
+    margin-left: 90px;
+}
+
+.price-stat {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.F1 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F1 img {
+    margin-left: 5px;
+}
+
+.F2 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F2 img {
+    margin-left: 5px;
+}
+
+.F3 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F3 img {
+    margin-left: 5px;
+}
+
+.clother-1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 45px;
+}
+
+.clother-1 img {
+    margin-left: 70px;
+}
+
+.name-1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 18px;
+}
+
+.price-stat-1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.F4 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F4 img {
+    margin-left: 5px;
+}
+
+.F5 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F5 img {
+    margin-left: 5px;
+}
+
+.F6 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F6 img {
+    margin-left: 5px;
+}
+
+.clother-2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 45px;
+}
+
+.clother-2 img {
+    margin-left: 70px;
+}
+
+.name-2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 18px;
+}
+
+.price-stat-2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.F7 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F7 img {
+    margin-left: 5px;
+}
+
+.F8 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F8 img {
+    margin-left: 5px;
+}
+
+.F9 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.F9 img {
+    margin-left: 5px;
+}
